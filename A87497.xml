@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech and declaration of John James, a weaver, in the press-yard, at Newgate, on Sunday last, to the Fifth-Monarchy-Men, and others; concerning his sermon preached at a private meeting in White-Chappel, taking his text out of the Psalms of David, whose words are here inserted. And the manner of his tryal before the Lord Chief Justice Foster, at the Kings-Bench in Westminster Hall; with the sentence pronounced against him to be drawn, hanged, and quartered, for preaching maliciously and traiterously against the life and safety of our soveraign lord the king, and against the peace and government of this realm</title>
+            <author>James, John, d. 1661.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87497</idno>
+            <idno type="STC">Wing J430</idno>
+            <idno type="STC">ESTC R230337</idno>
+            <idno type="EEBO-CITATION">99896256</idno>
+            <idno type="PROQUEST">99896256</idno>
+            <idno type="VID">154007</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87497)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154007)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2393:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech and declaration of John James, a weaver, in the press-yard, at Newgate, on Sunday last, to the Fifth-Monarchy-Men, and others; concerning his sermon preached at a private meeting in White-Chappel, taking his text out of the Psalms of David, whose words are here inserted. And the manner of his tryal before the Lord Chief Justice Foster, at the Kings-Bench in Westminster Hall; with the sentence pronounced against him to be drawn, hanged, and quartered, for preaching maliciously and traiterously against the life and safety of our soveraign lord the king, and against the peace and government of this realm</title>
+                  <author>James, John, d. 1661.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for George Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James, John, d. 1661 --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Fifth Monarchy Men --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:154007:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 46 -->
+            <p>THE SPEECH AND DECLARATION OF John James, A Weaver, in the Preſs-yard, At Newgate, on Sunday laſt, to the Fifth-Mo<g ref="char:EOLhyphen"/>narchy-Men, and others; Concerning His Sermon preached at a private Meeting in <hi>White-Chappel,</hi> taking his Text out of the <hi>Pſalms</hi> of <hi>David,</hi> whoſe words are here inſerted.</p>
+            <p>And The manner of his Tryal before the Lord Chief Ju<g ref="char:EOLhyphen"/>ſtice <hi>Foster,</hi> at the <hi>Kings-Bench</hi> in <hi>Weſt minſter</hi> Hall; with the Sentence pronounced againſt him to be Drawn, Hanged, and Quartered, for preaching ma<g ref="char:EOLhyphen"/>liciouſly and traiterouſly againſt the life and ſafety of our Soveraign Lord the King, and againſt the Peace and Government of this Realm.</p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#UOM" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> powers.</hi> &amp;c.</p>
+            <p>LONDON, Printed for <hi>George Horton,</hi> 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:154007:2"/>
+            <!-- PDF PAGE 47 -->
+            <pb n="1" facs="tcp:154007:2"/>
+            <!-- PDF PAGE 47 -->
+            <head>The Speech and Declaration of Iohn Iames in the Preſs-yard at New<g ref="char:EOLhyphen"/>gate, on Sunday laſt.</head>
+            <p>VVHen the Chriſtians in the primitive Times had their private meetings, the Church was hidden, and it was death for any to profeſs Chriſt openly; then Cellars, Garrets, and Woods, were their places of Aſſembly; but who reigned then, <hi>Nero?</hi> Bleſſed be the Name of God for ever more, we have the word preached a<g ref="char:EOLhyphen"/>mongſt us faithfully, we need not go into Corners and Holes to hear the Word of our bleſſed Lord and Savi<g ref="char:EOLhyphen"/>our taught; it abounds, through the great hand of Pro<g ref="char:EOLhyphen"/>vidence, in a moſt miraculous way, to all Leige and Loyal Subjects, and the Conduit-pipes of Heaven we ſee apparently opened, from whence deſcends the Fountain of Living Water, God in his great mercy con<g ref="char:EOLhyphen"/>tinue the powerful influence thereof: And if there be ſome (as I ſuppoſe too many) that have a deſign to ſore high beyond their Capacities and undertakings, let them learn that good and Chriſtian Leſſon of the holy Apoſtles, <hi>Submit your ſelves to the Higher powers,</hi> &amp;c. Blame me not therefore, I beſeech you, though I urge this with tenderneſs to tender Conſciences; for I ve<g ref="char:EOLhyphen"/>rily
+<pb n="2" facs="tcp:154007:3"/>
+               <!-- PDF PAGE 48 -->believe <hi>Ananias</hi> the Button-maker, <hi>Plaſh</hi> the Cob<g ref="char:EOLhyphen"/>ler, or any others of that fraternity, never did more in<g ref="char:EOLhyphen"/>jury to poor Souls then the deluding Foxes of this Age; as is too manifeſt in theſe dayes, by the deluſion of a Generation of men, whom I dare not call Loyal Subjects; witneſs the actions of a people that walk and go under the name of Fifth-monarchy men, whoſe principles to Monarchy are both dangerous and perni<g ref="char:EOLhyphen"/>cious, as appears by their reſults at their meeting pla<g ref="char:EOLhyphen"/>ces; touching which, in reference to the following Diſcourſe, the Reader may be pleaſed to take notice, that in one of their private Conventicles at White-Chappel, on Saturday October 19, 1661. <hi>John James</hi> a pretended Preacher to that Society, a Silk Weaver by Trade [mind that] took his Text out of the 8th. Pſalm and ſecond verſe; the words theſe, <hi>Out of the mouths of Babes and Sucklings haſt thou ordained ſtrength, becauſe of thine enemies, that thou mighteſt ſtill the enemy and the avenger.</hi> From whence he raiſed ſeveral Do<g ref="char:EOLhyphen"/>ctrines, which alluded to Seditions and Rebellions, as appeared by the teſtimony of ſome witneſſes, who be<g ref="char:EOLhyphen"/>ing then preſent, departed the place, and acquainted the next Juſtice of Peace with it; upon which infor<g ref="char:EOLhyphen"/>mation, the ſaid Juſtice ſent for ſome Officers, and im<g ref="char:EOLhyphen"/>mediately came to the place where this Convinticle was, where they found the afore-named <hi>John James</hi> in the full heighth of his Seditions exerciſe; and making their approach near him, they commanded him to come down he boldly anſwered, he would not, unleſs they pulled him down; whereupon an Officer took hold of his Coat, forcing him to decline his ſtation; and was thereupon carried before the Right Worſhipful
+<pb n="3" facs="tcp:154007:3"/>
+               <!-- PDF PAGE 48 -->Sir <hi>Iohn Robinſon</hi> Lieutenant of the Tower of <hi>London,</hi> where was laid to his change many traiterous expreſſ<g ref="char:EOLhyphen"/>ers, uttered in his private Conventicle againſt the pre<g ref="char:EOLhyphen"/>ſent Power and Government; for which, the Lieute<g ref="char:EOLhyphen"/>nant told him <hi>he would ſtretch for it:</hi> And in order there<g ref="char:EOLhyphen"/>unto his Mittimus was made to be ſent to Newgate, where he remained till the 19th of this inſtant Novem. being Wedneſday, from whence he was carried to the Kings Bar in Weſtminſter Hall, and there arraigned <hi>for preaching maliciouſly and traiterouſly againſt the life and ſafety of our Soveraign Lord the King, and againſt the peace and Government of the whole Realm,</hi> &amp;c. But this is obſervable, that upon his coming to the Bar, and being commanded <hi>to hold up his hand, according to the ancient Law of</hi> England, he yielded obedience thereunto, but with his Glove on, which the Court perceiving, he was <hi>commanded to pull it off,</hi> ſaying, <hi>That he he<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d up his hand as a teſtimony, that he was there preſent, to anſwer what that Honourable Court had to lay to his charge</hi> &amp;c. But to evade circumſtances:</p>
+            <p>
+               <hi>The Charge of High Treaſon being read, wherein he was accuſed, to Act, Plot, and Conſpire, againſt His Royal Maje<g ref="char:EOLhyphen"/>ſties Sacred perſon, to be inſtrumental of levying a New War, and that be ſhould ſay, That if ever they could get the Power into their own hands (which God forbid) that they would caſt of all Monarchy, and perfect the work formerly began throughly.</hi>
+            </p>
+            <pb n="4" facs="tcp:154007:4"/>
+            <!-- PDF PAGE 49 -->
+            <p>This and much more was made apparent and atteſt<g ref="char:EOLhyphen"/>ed by ſeveral Witneſſes; amongſt whom, Mr. <hi>Tipler</hi> a Tobacco-pipe maker, made Oath, That he heard the ſaid <hi>John James</hi> publickly declare at his private Con<g ref="char:EOLhyphen"/>venticle in <hi>white-chapple,</hi> That <hi>the Cup of Iniquity was fil<g ref="char:EOLhyphen"/>led more fuller by the blood of the Saints at</hi> Cherring-Croſs <hi>a twelve moneth laſt, and by the blood of the Saints in</hi> Scotland, <hi>to wit, the Covenanters, then it had in many years before, and that a ſudden ruine and deſtruction would befal the Authors thereof.</hi>
+            </p>
+            <p>Thus did this ſad Soul juſtifie thoſe Bloody Mur<g ref="char:EOLhyphen"/>therers, who for their horrid impieties were executed for their moſt notorious and wicked Treaſons, and ſee<g ref="char:EOLhyphen"/>med to juſtifie himſelf, pleading innocency: But this, and much more being fully proved by ſeveral Wit<g ref="char:EOLhyphen"/>neſſes, before the Lord Chief Juſtice <hi>Foſter,</hi> and the reſt of the Juſtices of that Court, he was brought in <hi>Guilty of High Treaſon,</hi> which he ſeemed very obſtinately to evade; for when it was demanded by the Honoura<g ref="char:EOLhyphen"/>ble Court, <hi>Who he would be tried by.</hi> He anſwered, <hi>By the Lawes of God.</hi> The Lord Chief Juſtice told him, <hi>He muſt anſwer according to Law, otherwiſe he muſt be recor<g ref="char:EOLhyphen"/>ded for a Mute.</hi> The Clerk then telling him, he muſt anſwer, <hi>By God and his Countrey,</hi> he deſired to know what the meaning of that was; it was anſwered, <hi>That by God was meant the Lawes of the Land, and by Country, twelve</hi> Middleſex <hi>men for his Jury, honeſt, and juſt, to deal impartially between the Kings moſt excellent Majeſty and the charge againſt the Priſoner at the Bar.</hi> whereupon he <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, <hi>that he was ſatisfied:</hi> And the Jury going out, <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them to be tender of ſpilling of Innocent word but finding the evidence of the Witneſs ſo clear
+<pb n="5" facs="tcp:154007:4"/>
+               <!-- PDF PAGE 49 -->and apparent, he was brought in <hi>Guilty of High Treaſon,</hi> and ſoon after received Sentence to be Drawn. Hang<g ref="char:EOLhyphen"/>ed, and Quartered. In order wherunto he was ſent back to <hi>Newgate</hi> where on Sunday morning laſt, divers of his Acquaintance came to ſee him in the <hi>Preſs-yard,</hi> con<g ref="char:EOLhyphen"/>doling his ſad condition; but he ſeemed not at all to be daunted, declaring, <hi>That what he ſpake in the meet<g ref="char:EOLhyphen"/>ing, the Spirit of the Lord was upon his heart to reveal it:</hi> And being taxed in his Charge touching ſome parti<g ref="char:EOLhyphen"/>culars concerning that notorious Regicide and wicked Uſurper <hi>Oliver Cromwel,</hi> he ſaid, <hi>That he was as much a<g ref="char:EOLhyphen"/>gainst his power, as he was again this preſent Government.</hi>
+            </p>
+            <p>The truth is, he fancied no decency in the Church, without order or form, and as much as in him lay, would have eclipſed the Glory thereof, and laid its ſplendor in the Duſt, which all the Reformed Chur<g ref="char:EOLhyphen"/>ches in the Chriſtian World have formerly ſtood a<g ref="char:EOLhyphen"/>mazed at the Government thereof: The Lord in his mercy open the hearts of our Gracious Soveraign, Par<g ref="char:EOLhyphen"/>liament, and Council, to reform theſe things both in Church and Kingdoms, that God may have his both in ſetled in peace and quiet, and his people may come to his Temple with joy and gladneſs.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154007:5"/>
+            <!-- PDF PAGE 50 -->
+         </div>
+      </body>
+   </text>
+</TEI>
